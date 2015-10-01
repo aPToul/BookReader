@@ -14,5 +14,6 @@ To actually create an index, chaining a list of positions can be used.
 
 RESULTS:
 
-On my computer, it took about 1.36 seconds for the hash table, 33.5 seconds for the binary tree and 38.8 seconds for the sorted list to count words in a novel of 52,071 words. A trial was taken 15 times to obtain these averages. For fun, an unsorted list was implemented. It took a whopping 788.4 seconds.
+On average, it took about 1.36 seconds for the hash table, 33.5 seconds for the binary tree, and 38.8 seconds for the sorted list to count the words in a novel with 52,071 words. For fun, an unsorted list was used. It took a whopping 788.4 seconds.
 
+Results will vary by computer. A trial is taken 15 times to obtain an average.
