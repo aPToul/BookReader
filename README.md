@@ -1,6 +1,6 @@
 # BookReader
 
-As part of my Data Structures and Algorithms class, I measured performance differences across C# implementations of a dictionary.
+As part of my Data Structures and Algorithms class, I measured the performance of different implementations of a dictionary in C#.
 
 CODE SUMMARY:
 
