@@ -4,7 +4,7 @@ As part of my Algorithms and  Data Structures class, I measured the performance 
 
 CODE SUMMARY:
 
-The efficiency of storing the number of instances each word in a book is compared across the following classes:
+The efficiency of storing the instances each word in a book is compared across the following classes:
 - SortedList
 - SortedDictionary (binary tree)
 - Dictionary (hash table)
